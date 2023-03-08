@@ -1,4 +1,4 @@
-- pipeline: "baoayackee"
-  trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "TAG"
-  ref_name: "v412"
+- pipeline: "qssxdueupr"
+  trigger_mode: "MANUAL"
+  ref_type: "NONE"
+  trigger_condition: "ALWAYS"
