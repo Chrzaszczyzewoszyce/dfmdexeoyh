@@ -1,4 +1,4 @@
-- pipeline: "bnpjwkevbl"
-  trigger_mode: "MANUAL"
-  ref_type: "TAG"
-  ref_name: "v47"
+- pipeline: "mccgbnspbq"
+  trigger_mode: "SCHEDULED"
+  ref_type: "NONE"
+  cron: "5 * * * *"
